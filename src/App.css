@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
 }
 
@@ -35,4 +35,40 @@
   to {
     transform: rotate(360deg);
   }
+}
+.red{
+  color: rgb(243, 2, 2);
+  
+}
+.tweets{
+  font-size: 12px;
+}
+.item{
+  color: rgb(4, 64, 82);
+}
+.messeges{
+  color: rgb(248, 12, 3);
+}
+.button_section{
+  border-style: solid;
+  background-color: #61dafb;
+  margin: 35px;
+  
+}
+button{
+  border-radius: 15px;
+  border: 2px solid rgb(1, 28, 65);
+}
+button:hover {
+  background-color: #282c34;
+}
+
+.subtitle_white{
+  font-size: 30px;
+}
+p{
+  font-size: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
 }
